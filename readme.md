@@ -1,5 +1,3 @@
 # Random Excuse Generator
 
-Based on the site:
-
-http://www.randomexcusegenerator.com/
+https://github.com/PauloPaixao/randomexcuse
